@@ -1,0 +1,14 @@
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\bin\Debug\net6.0\OldStyleApp3.exe
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\bin\Debug\net6.0\OldStyleApp3.deps.json
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\bin\Debug\net6.0\OldStyleApp3.runtimeconfig.json
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\bin\Debug\net6.0\OldStyleApp3.dll
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\bin\Debug\net6.0\OldStyleApp3.pdb
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\OldStyleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\OldStyleApp3.AssemblyInfoInputs.cache
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\OldStyleApp3.AssemblyInfo.cs
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\OldStyleApp3.csproj.CoreCompileInputs.cache
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\OldStyleApp3.dll
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\refint\OldStyleApp3.dll
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\OldStyleApp3.pdb
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\OldStyleApp3.genruntimeconfig.cache
+D:\VisualC\2_C# Lecture\OldStyleApp3\OldStyleApp3\obj\Debug\net6.0\ref\OldStyleApp3.dll

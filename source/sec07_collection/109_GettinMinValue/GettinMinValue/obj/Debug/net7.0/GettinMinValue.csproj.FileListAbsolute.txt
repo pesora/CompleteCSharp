@@ -1,0 +1,14 @@
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\GettinMinValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\GettinMinValue.AssemblyInfoInputs.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\GettinMinValue.AssemblyInfo.cs
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\GettinMinValue.csproj.CoreCompileInputs.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\bin\Debug\net7.0\GettinMinValue.exe
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\bin\Debug\net7.0\GettinMinValue.deps.json
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\bin\Debug\net7.0\GettinMinValue.runtimeconfig.json
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\bin\Debug\net7.0\GettinMinValue.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\bin\Debug\net7.0\GettinMinValue.pdb
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\GettinMinValue.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\refint\GettinMinValue.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\GettinMinValue.pdb
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\GettinMinValue.genruntimeconfig.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\GettinMinValue\GettinMinValue\obj\Debug\net7.0\ref\GettinMinValue.dll

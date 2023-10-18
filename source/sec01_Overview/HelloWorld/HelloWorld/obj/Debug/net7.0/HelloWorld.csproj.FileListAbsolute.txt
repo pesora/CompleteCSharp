@@ -1,0 +1,14 @@
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+D:\VisualC\2_C# Lecture\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll

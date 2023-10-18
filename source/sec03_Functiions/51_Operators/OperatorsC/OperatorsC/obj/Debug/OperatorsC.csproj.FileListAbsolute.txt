@@ -1,0 +1,7 @@
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe.config
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\bin\Debug\OperatorsC.pdb
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csprojResolveAssemblyReference.cache
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csproj.CoreCompileInputs.cache
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.exe
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.pdb

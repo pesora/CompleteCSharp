@@ -1,0 +1,14 @@
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.AssemblyInfoInputs.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.AssemblyInfo.cs
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.csproj.CoreCompileInputs.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.exe
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.deps.json
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.runtimeconfig.json
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\bin\Debug\net6.0\WhyParams.pdb
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\refint\WhyParams.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.pdb
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\WhyParams.genruntimeconfig.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\WhyParams\WhyParams\obj\Debug\net6.0\ref\WhyParams.dll

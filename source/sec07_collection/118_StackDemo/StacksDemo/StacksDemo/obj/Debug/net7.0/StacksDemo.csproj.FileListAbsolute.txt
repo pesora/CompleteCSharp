@@ -1,0 +1,14 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\bin\Debug\net7.0\StacksDemo.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\bin\Debug\net7.0\StacksDemo.deps.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\bin\Debug\net7.0\StacksDemo.runtimeconfig.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\bin\Debug\net7.0\StacksDemo.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\bin\Debug\net7.0\StacksDemo.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\StacksDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\StacksDemo.AssemblyInfoInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\StacksDemo.AssemblyInfo.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\StacksDemo.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\StacksDemo.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\refint\StacksDemo.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\StacksDemo.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\StacksDemo.genruntimeconfig.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\118_StackDemo\StacksDemo\StacksDemo\obj\Debug\net7.0\ref\StacksDemo.dll

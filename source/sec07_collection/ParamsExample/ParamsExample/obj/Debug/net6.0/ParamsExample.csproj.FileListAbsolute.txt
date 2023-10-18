@@ -1,0 +1,14 @@
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\bin\Debug\net6.0\ParamsExample.exe
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\bin\Debug\net6.0\ParamsExample.deps.json
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\bin\Debug\net6.0\ParamsExample.runtimeconfig.json
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\bin\Debug\net6.0\ParamsExample.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\bin\Debug\net6.0\ParamsExample.pdb
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ParamsExample.AssemblyInfoInputs.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ParamsExample.AssemblyInfo.cs
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ParamsExample.csproj.CoreCompileInputs.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ParamsExample.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\refint\ParamsExample.dll
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ParamsExample.pdb
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ParamsExample.genruntimeconfig.cache
+D:\VisualC\2_C# Lecture\online\sec07_collection\ch08\ParamsExample\ParamsExample\obj\Debug\net6.0\ref\ParamsExample.dll

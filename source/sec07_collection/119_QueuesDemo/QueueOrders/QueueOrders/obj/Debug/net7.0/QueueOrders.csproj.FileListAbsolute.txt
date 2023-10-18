@@ -1,0 +1,14 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\bin\Debug\net7.0\QueueOrders.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\bin\Debug\net7.0\QueueOrders.deps.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\bin\Debug\net7.0\QueueOrders.runtimeconfig.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\bin\Debug\net7.0\QueueOrders.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\bin\Debug\net7.0\QueueOrders.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\QueueOrders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\QueueOrders.AssemblyInfoInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\QueueOrders.AssemblyInfo.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\QueueOrders.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\QueueOrders.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\refint\QueueOrders.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\QueueOrders.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\QueueOrders.genruntimeconfig.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueueOrders\QueueOrders\obj\Debug\net7.0\ref\QueueOrders.dll

@@ -1,0 +1,14 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\bin\Debug\net7.0\QueuesDemo.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\bin\Debug\net7.0\QueuesDemo.deps.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\bin\Debug\net7.0\QueuesDemo.runtimeconfig.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\bin\Debug\net7.0\QueuesDemo.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\bin\Debug\net7.0\QueuesDemo.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\QueuesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\QueuesDemo.AssemblyInfoInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\QueuesDemo.AssemblyInfo.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\QueuesDemo.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\QueuesDemo.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\refint\QueuesDemo.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\QueuesDemo.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\QueuesDemo.genruntimeconfig.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec07_collection\ch08\119_QueuesDemo\QueuesDemo\QueuesDemo\obj\Debug\net7.0\ref\QueuesDemo.dll
