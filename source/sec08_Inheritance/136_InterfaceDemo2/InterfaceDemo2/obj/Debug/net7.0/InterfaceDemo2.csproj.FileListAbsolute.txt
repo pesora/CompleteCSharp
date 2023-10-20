@@ -1,0 +1,14 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\bin\Debug\net7.0\InterfaceDemo2.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\bin\Debug\net7.0\InterfaceDemo2.deps.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\bin\Debug\net7.0\InterfaceDemo2.runtimeconfig.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\bin\Debug\net7.0\InterfaceDemo2.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\bin\Debug\net7.0\InterfaceDemo2.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\InterfaceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\InterfaceDemo2.AssemblyInfoInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\InterfaceDemo2.AssemblyInfo.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\InterfaceDemo2.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\InterfaceDemo2.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\refint\InterfaceDemo2.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\InterfaceDemo2.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\InterfaceDemo2.genruntimeconfig.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec08_Inheritance\136_InterfaceDemo2\InterfaceDemo2\obj\Debug\net7.0\ref\InterfaceDemo2.dll
