@@ -1,0 +1,14 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\bin\Debug\net7.0\AbstracClasssC.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\bin\Debug\net7.0\AbstracClasssC.deps.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\bin\Debug\net7.0\AbstracClasssC.runtimeconfig.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\bin\Debug\net7.0\AbstracClasssC.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\bin\Debug\net7.0\AbstracClasssC.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\AbstracClasssC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\AbstracClasssC.AssemblyInfoInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\AbstracClasssC.AssemblyInfo.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\AbstracClasssC.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\AbstracClasssC.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\refint\AbstracClasssC.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\AbstracClasssC.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\AbstracClasssC.genruntimeconfig.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\145_AbstracClasssC\AbstracClasssC\obj\Debug\net7.0\ref\AbstracClasssC.dll
