@@ -1,0 +1,7 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\148_ReadTextFile\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.AssemblyReference.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\148_ReadTextFile\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\148_ReadTextFile\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\148_ReadTextFile\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\148_ReadTextFile\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\148_ReadTextFile\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\148_ReadTextFile\ReadFile\ReadFile\obj\Debug\ReadFile.pdb

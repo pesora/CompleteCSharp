@@ -1,0 +1,185 @@
+In this lesson, you will learn the critical difference between abstract classes and interfaces.
+
+When designing applications, it is essential to know when to use an abstract class and when to use
+
+an interface and when to use neither of them.
+
+Abstract classes and interfaces seem similar in some ways, but there are key differences which will
+
+determine which is the best choice for what you are trying to achieve.
+
+Understanding the difference between an abstract class and an interface is very important, so we can
+
+be able to design loosely coupled and extensible applications, so applications that we can modify and
+
+change easily without breaking everything.
+
+We will discuss those differences and how to decide when to use which in this video.
+
+But before we do that, first, let's refresh our memory about abstract classes and interfaces.
+
+So first, abstract classes.
+
+An abstract class is an incomplete class or a class that can't be instantiated, which means we cannot
+
+create objects from it.
+
+The purpose of an abstract class is to provide a blueprint for derived classes and to set some rules
+
+like what the derived classes must implement.
+
+But why would we need a class to be marked as an abstract class to begin with?
+
+What's wrong with regular classes?
+
+Imagine we have a class motorcycle and a class car and they share some functionality to reduce code
+
+redundancy.
+
+We create a basic class called vehicle to prevent creating instances of type vehicle and to enforce
+
+every method to implement their version of the vehicle methods.
+
+We have to mark it as an abstract class.
+
+We can take advantage of abstract classes to design components and specify some level of common functionality
+
+that must be implemented by derived classes.
+
+So let's make this vehicle abstract and this will be fine.
+
+Now let's look at interfaces once again.
+
+So an interface is a contract and it can contain only method declarations.
+
+It cannot contain method definitions.
+
+They define an ability that a class has.
+
+Let's imagine we have three classes, so we have the class, bicycle, motorcycle and car.
+
+And then we want to make sure that all of these classes inherit from this class vehicle.
+
+And if you want to add self driving functionality to our car, for example, and we want you to create
+
+other classes, for example, that might create something like an airplane, it doesn't make sense to
+
+add the self driving functionality to the base class vehicle because not all of our subclasses will
+
+have this feature.
+
+It would be more convenient to add it in the form of an interface called I self driving.
+
+Then these classes that implement this interface can provide the logic to achieve it.
+
+Now let's talk about similarities between interfaces and abstract classes.
+
+Both interfaces and abstract classes can be instantiated.
+
+It means we can't create objects from them, but they both support polymorphism, meaning that we can
+
+store an object of type cat in a variable of type abstract class animal.
+
+The same thing goes for interfaces where we can store any collection like a list or a stack in a variable
+
+of type i enumerable.
+
+So now let's look at the key differences.
+
+An abstract class is designed to be inherited by subclasses that either implement or override its methods.
+
+In other words, abstract classes are either partially implemented or not implemented at all.
+
+On the other hand, interfaces are not implemented at all.
+
+Then an abstract class can't have a constructor opposite to that.
+
+Abstract classes can have constructors and fields as well as method definitions, and the implementation
+
+will be the responsibility of the class that implemented the interface.
+
+On the other hand, an abstract class may contain method, definitions and fields, and since interfaces
+
+don't have any constructors, as we mentioned, they also cannot have fields.
+
+So now classes can implement many interfaces, which is a way to achieve some sort of multi inheritance,
+
+since C-sharp is a single inheritance language and doesn't allow that by default.
+
+So a class can only inherit extent one class.
+
+So if a class implemented an interface, it must implement all of its members, such as properties,
+
+methods and so forth.
+
+On the other hand, when a class extends an abstract class, it must implement its abstract members
+
+only.
+
+So the non implemented part of the abstract class.
+
+Let's look at an analogy here.
+
+Imagine I see sharp instructor at tutorials EU where the instructor can't achieve anything unless he's
+
+an expert in a topic or she's an expert in a topic because we can't have instances of abstract classes.
+
+So an instructor would need to become an expert in a topic to teach it.
+
+So the instructor became a sharp expert, and now he or she can teach C-sharp.
+
+At some point the C shop instructor had to edit his videos.
+
+Although not all instructors need to do the same thing.
+
+So we implemented the interface I video editor for this to work, so not all instructors need to be
+
+able to edit, but the ones that implement this video editor will have to do so.
+
+All right.
+
+One should you choose inheritance over an interface when designing shop class libraries?
+
+Well, use an abstract class if you have some functionality that you want its subclasses to have.
+
+For instance, if you have a set of functions, you want subclasses to have put them in an abstract
+
+class.
+
+The abstract class is used when the derived class shares its core properties and behavior of the abstract
+
+class, the kind of behavior that actually defines the class.
+
+Use an interface if you want a general contract only behavior or functionality.
+
+Interfaces are typically loose compared to abstract classes.
+
+You wouldn't want to use interfaces in a situation where you're constantly writing the same code for
+
+all of the interface methods.
+
+Use an abstract class and define each method once.
+
+So a quick summary.
+
+When we talk about abstract classes, we defined the characteristics of an object type specifying what
+
+an object is.
+
+When we talk about an interface and define capabilities that we promise to provide, we are talking
+
+about establishing a contract about what the object can do.
+
+So what the object is abstract class.
+
+What the object can do.
+
+An interface.
+
+All right.
+
+So I hope you enjoyed and understood this summary and this overview of the two different types of approaches.
+
+And now let's go ahead and use those concepts in different examples throughout the next lectures and
+
+throughout the rest of the course.
