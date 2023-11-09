@@ -1,0 +1,20 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\bin\Debug\net7.0-windows\WPF 01C.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\bin\Debug\net7.0-windows\WPF 01C.deps.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\bin\Debug\net7.0-windows\WPF 01C.runtimeconfig.json
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\bin\Debug\net7.0-windows\WPF 01C.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\bin\Debug\net7.0-windows\WPF 01C.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\App.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C_MarkupCompile.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C_MarkupCompile.lref
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.g.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.AssemblyInfoInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.AssemblyInfo.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\refint\WPF 01C.dll
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\WPF 01C.genruntimeconfig.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec10_Polymorphism and more\WPF 01C\WPF 01C\obj\Debug\net7.0-windows\ref\WPF 01C.dll

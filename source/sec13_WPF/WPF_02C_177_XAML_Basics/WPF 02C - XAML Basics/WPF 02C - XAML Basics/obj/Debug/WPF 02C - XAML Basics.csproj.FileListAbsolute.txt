@@ -1,0 +1,29 @@
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\bin\Debug\WPF 02C - XAML Basics.exe.config
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\bin\Debug\WPF 02C - XAML Basics.exe
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\bin\Debug\WPF 02C - XAML Basics.pdb
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\MainWindow.g.cs
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\App.g.cs
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics_MarkupCompile.cache
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics_MarkupCompile.lref
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\MainWindow.baml
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.g.resources
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF_02C___XAML_Basics.Properties.Resources.resources
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.exe
+F:\Visual Studio Projects\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\bin\Debug\WPF 02C - XAML Basics.exe.config
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\bin\Debug\WPF 02C - XAML Basics.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\bin\Debug\WPF 02C - XAML Basics.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.csproj.AssemblyReference.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\MainWindow.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\App.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics_MarkupCompile.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics_MarkupCompile.lref
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\MainWindow.baml
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.g.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF_02C___XAML_Basics.Properties.Resources.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.csproj.GenerateResource.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\lecture\WPF_02C_177_XAML_Basics\WPF 02C - XAML Basics\WPF 02C - XAML Basics\obj\Debug\WPF 02C - XAML Basics.pdb
