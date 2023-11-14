@@ -1,0 +1,15 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\bin\Debug\WPF 08C - INotifyPropertyChanged Interface.exe.config
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\bin\Debug\WPF 08C - INotifyPropertyChanged Interface.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\bin\Debug\WPF 08C - INotifyPropertyChanged Interface.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\183.WPF 08C - INotifyPropertyChanged Interface.csproj.AssemblyReference.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\MainWindow.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\App.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\WPF 08C - INotifyPropertyChanged Interface_MarkupCompile.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\WPF 08C - INotifyPropertyChanged Interface_MarkupCompile.lref
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\MainWindow.baml
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\WPF 08C - INotifyPropertyChanged Interface.g.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\WPF_08C___INotifyPropertyChanged_Interface.Properties.Resources.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\183.WPF 08C - INotifyPropertyChanged Interface.csproj.GenerateResource.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\183.WPF 08C - INotifyPropertyChanged Interface.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\WPF 08C - INotifyPropertyChanged Interface.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\183.WPF 08C - INotifyPropertyChanged Interface\WPF 08C - INotifyPropertyChanged Interface\obj\Debug\WPF 08C - INotifyPropertyChanged Interface.pdb

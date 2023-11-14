@@ -1,0 +1,15 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\bin\Debug\WPF 07C - Databinding.exe.config
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\bin\Debug\WPF 07C - Databinding.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\bin\Debug\WPF 07C - Databinding.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\182.WPF 07C - Databinding.csproj.AssemblyReference.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\MainWindow.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\App.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding_MarkupCompile.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding_MarkupCompile.lref
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\MainWindow.baml
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.g.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF_07C___Databinding.Properties.Resources.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\182.WPF 07C - Databinding.csproj.GenerateResource.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\182.WPF 07C - Databinding.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\182.WPF 07C - Databinding\WPF 07C - Databinding\obj\Debug\WPF 07C - Databinding.pdb
