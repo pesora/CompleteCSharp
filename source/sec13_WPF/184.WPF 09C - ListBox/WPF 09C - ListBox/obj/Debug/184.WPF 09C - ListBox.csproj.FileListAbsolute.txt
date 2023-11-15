@@ -1,0 +1,15 @@
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\bin\Debug\WPF 09C - ListBox.exe.config
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\bin\Debug\WPF 09C - ListBox.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\bin\Debug\WPF 09C - ListBox.pdb
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\184.WPF 09C - ListBox.csproj.AssemblyReference.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\MainWindow.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\App.g.cs
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\WPF 09C - ListBox_MarkupCompile.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\WPF 09C - ListBox_MarkupCompile.lref
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\MainWindow.baml
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\WPF 09C - ListBox.g.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\WPF_09C___ListBox.Properties.Resources.resources
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\184.WPF 09C - ListBox.csproj.GenerateResource.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\184.WPF 09C - ListBox.csproj.CoreCompileInputs.cache
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\WPF 09C - ListBox.exe
+D:\Sunshine\CSharp\CompleteCSharp\source\sec13_WPF\184.WPF 09C - ListBox\WPF 09C - ListBox\obj\Debug\WPF 09C - ListBox.pdb
